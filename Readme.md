@@ -97,8 +97,8 @@ Each project is designed with real-world functionality and uses modern technolog
 ## 🔗 Connect With Me
 
 - 🌐 GitHub: [@shubhampatil-d](https://github.com/shubhampatil-d)
-- 💼 LinkedIn: [Add your profile link here]
-- 📧 Email: [Add your email]
+- 💼 LinkedIn: [@shubhampatil](https://www.linkedin.com/in/shubham-patil-89356a340/)
+- 📧 Email: shubhampatil21199@gmail.com
 
 ---
 
